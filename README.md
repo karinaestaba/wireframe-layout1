@@ -1,15 +1,24 @@
+![Screenshot](./screenshot.png)
 
-# Wireframe responsive layout 1
+<hr>
 
-Práctica para generación de wireframes mediante HTML + CSS. Layout responsive basada en contenedores como placeholders. 😊
+# Project 
+Practice for generating wireframes using HTML + CSS. Responsive layout based on containers as placeholders.
 
+## Links
 
-## Screenshots
+- Live Site URL: [Demo](https://karinaestaba.github.io/wireframe-layout1/)
 
-![App Screenshot](screenshot.png)
+## Built with
 
+- Semantic HTML5 markup
+- Mobile-first workflow
+- CSS custom properties
+- Flexbox
+- CSS Grid
 
-## Authors
+## Author
 
-- [@karinaestaba](https://www.github.com/karinaestaba)
+- Website: [Karina Estaba](https://karina-estaba.gitlab.io/directorio-repositorios/) 🔗
+
 
